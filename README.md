@@ -9,4 +9,4 @@ An OOP tower defense game built in the processing environment. It implements pla
 ### UML Document
 ![Image of UML doc](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseUML.png?raw=true)
 
-Source code available [here](https://github.com/acdamstedt/programmingportfolio/tree/gh-pages/src/SpaceGame).
+Source code available [here](https://github.com/acdamstedt/FinalProject/tree/gh-pages/src/TowerDefenseGame).
