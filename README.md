@@ -1,5 +1,5 @@
 # Tower Defense Game
-An OOP tower defense game built in the processing environment. It implements placeable towers, and enemies that move down a predetermined track. 
+An OOP tower defense game built in the processing environment. It implements placeable towers, and enemies that move down a predetermined track. Coding and graphics done by Annika Damstedt.
 
 ### GUI Mockup
 ![Image of GUI mockup](https://github.com/acdamstedt/programmingportfolio/blob/gh-pages/images/SpaceGame.png?raw=true)
