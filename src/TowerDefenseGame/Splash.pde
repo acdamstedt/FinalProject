@@ -1,3 +1,4 @@
+// not used right now
 class Splash {
   // member variables
   int x, y, speed, r;
