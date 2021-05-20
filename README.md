@@ -1,12 +1,18 @@
 # Tower Defense Game
 An OOP tower defense game built in the processing environment. It implements placeable towers, and enemies that move down a predetermined track. Coding and graphics done by Annika Damstedt.
 
-### GUI Mockup
-![Image of GUI mockup](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI1.png?raw=true)
+### Images of Game
+![Start Screen](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI1.png?raw=true)
 
-![Image of GUI mockup](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI2.png?raw=true)
+![Info Panel](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI2.png?raw=true)
+
+![Game Screen](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI2.png?raw=true)
+
+![Game Over](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseGUI2.png?raw=true)
 
 ### UML Document
 ![Image of UML doc](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseUML.png?raw=true)
 
 Source code available [here](https://github.com/acdamstedt/FinalProject/tree/gh-pages/src/TowerDefenseGame).
+
+Executable for Windows available [here](https://github.com/acdamstedt/FinalProject/blob/gh-pages/src/TowerDefenseGame/application.windows64.zip). Executable for Mac available [here](https://github.com/acdamstedt/FinalProject/blob/gh-pages/src/TowerDefenseGame/application.macosx.zip).
