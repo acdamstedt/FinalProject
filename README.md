@@ -11,7 +11,7 @@ An OOP tower defense game built in the processing environment. It implements pla
 ![Game Over](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/GameOver.png?raw=true)
 
 ### UML Document
-![Image of UML doc](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseUML.png?raw=true)
+![Image of UML doc](https://github.com/acdamstedt/FinalProject/blob/gh-pages/images/TowerDefenseUML%20(1).png?raw=true)
 
 Source code available [here](https://github.com/acdamstedt/FinalProject/tree/gh-pages/src/TowerDefenseGame).
 
